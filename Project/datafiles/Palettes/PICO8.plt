@@ -1,0 +1,1 @@
+{ "NAME": "PICO-8", "COLORS": [ "#000000", "#1D2B53", "#7C2553", "#008751", "#AB5236", "#5F574F", "#C2C3C7", "#FFF1E8", "#FF004D", "#FFA300", "#FFEC27", "#00E436", "#29ADFF", "#83769C", "#FF77A8", "#FFCCAA" ], "DESC": "Default Palette from PICO-8 virtual console." }
